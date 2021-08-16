@@ -1,3 +1,8 @@
+/*Ejercicio:
+Realizar un programa que permita a un profesor calcular el promedio de un alumno. Para esto, el algoritmo debe permitir ingresar las 4 notas del mismo 
+(por ejemplo, 8, 7, 9.50 y 10), luego calcular el promedio de las mismas y mostrar el resultado por pantalla. 
+Se recuerda que el promedio es la suma de todas las notas dividido la cantidad, en el ejemplo sería:(8+7+9.50+10)/4. */
+
 import java.util.Scanner;
 public class Ej1Promedio {
 
