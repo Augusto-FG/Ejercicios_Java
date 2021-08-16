@@ -1,8 +1,8 @@
+/* En el siguiente ejercicio mostramos el uso de Do While y Switch para su implementación en una calculadora con menú de opciones*/
+
 import java.util.Scanner;
 public class EjDoWhileAndSwitch {
 	
-
-
 		public static void main(String[] args) {
 			Scanner br = new Scanner(System.in);
 			int opc, num1, num2;
